@@ -28,6 +28,6 @@ had?
 - 3 iPython Notebook files documenting the step by step process for this project
 - Project write up is also available on my [blog](http://ozzieliu.com/2016/01/31/roger-ebertron/)
 
-# QUestions and Comments?
+# Questions and Comments?
 
 [Email me](mailto:ozzie@ozzieliu.com)
