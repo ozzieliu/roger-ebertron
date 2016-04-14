@@ -1,8 +1,5 @@
-Project Luther
+Roger-Ebertron
 --
-
-## Ozzie Liu  
-January 29th, 2016
 
 Project 2 at Metis Data science, Codenamed *Luther*, uses web scraping, linear
 regression, and supervised machine learning techniques to look at an interesting
